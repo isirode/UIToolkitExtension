@@ -34,6 +34,9 @@ Features I am currently working on:
   - [x] Instantiating it with C# script
   - [ ] Instantiating it in a UI Document (I dont know how to accept XML arguments in a VisualElement for now)
 
+- [ ] TextField
+  - [ ] Provide a typed TextField (float, int, number)
+
 It would be nice to have those:
 * A better ScrollView
 * A zooming ScrollView
